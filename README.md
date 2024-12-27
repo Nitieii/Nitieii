@@ -60,13 +60,45 @@ My previous experience as a Software Development Intern at Rayann Capital in Jap
 
 ---
 
-<h3>💡 Skills</h3>
-<ul>
-  <li>Full-Stack Development (MERN Stack)</li>
-  <li>Machine Learning & AI</li>
-  <li>Cloud Computing (AWS)</li>
-  <li>Software Project Management</li>
-</ul>
+<h3>💡 Key Skills</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React">
+      <p>React / React Native</p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js">
+      <p>Node.js</p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
+      <p>Python</p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS">
+      <p>AWS</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/database.png" alt="Databases">
+      <p>Database Management</p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/ios-filled/100/4a90e2/artificial-intelligence.png" alt="Artificial Intelligence">
+      <p>Artificial Intelligence</p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/project-management.png" alt="Project Management">
+      <p>Project Management</p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/web-design.png" alt="UI Design">
+      <p>User Interface Design</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
