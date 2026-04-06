@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C92F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Ngo+Tuan+Anh;Co-Founder+%26+CEO+%40+TechTack+AI;Legal+AI+Solutions+Pioneer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C92F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Ngo+Tuan+Anh;Co-Founder+%26+CEO+%40+TechTack+LLC;AI+Solutions+Pioneer;Full-Stack+Developer" alt="Typing SVG" />
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-nitieii.netlify.app-2C92F7?style=for-the-badge&logo=Safari&logoColor=white)](https://nitieii.netlify.app/)
   [![Email](https://img.shields.io/badge/Email-tuananh.ngo@techtack.com.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuananh.ngo@techtack.com.vn)
-  [![Resume](https://img.shields.io/badge/Resume-Download_Here-00A98F?style=for-the-badge&logo=googledrive&logoColor=white)](https://dropover.cloud/c5667a)
 
 </div>
 
@@ -41,7 +39,7 @@
 ---
 
 #### 📰 About Me
-I am the **Co-Founder & CEO of TechTack AI**, where we're transforming the legal industry with AI-powered solutions to enhance efficiency and accessibility. With a strong foundation in Computer Science from FPT University and expertise in full-stack development, I lead a talented team pushing the boundaries of technology in legal services.
+I am the **Co-Founder & CEO of TechTack LLC**, where we're transforming the legal industry with AI-powered solutions to enhance efficiency and accessibility. With a strong foundation in Computer Science from FPT University and expertise in full-stack development, I lead a talented team pushing the boundaries of technology in legal services.
 
 My previous experience as a Software Development Intern at Rayann Capital in Japan helped me build solid technical skills and an agile mindset. Fluent in the MERN stack and experienced in cloud computing, machine learning, and software project management, I thrive on creating innovative solutions that make a difference.
 
